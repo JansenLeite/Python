@@ -1,0 +1,13 @@
+PYTHON 3.10.7 Versão SENAI HOMOLOGADA
+=====================================================================
+
+https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe
+
+
+Visual Studio Code
+=====================================================================
+
+https://code.visualstudio.com/download
+
+
+
