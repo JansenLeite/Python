@@ -1,0 +1,54 @@
+class programa_recebe_dados:
+    def receber_campos(self):
+        campo = 1
+        while True:
+            match campo:
+                case 1:
+                    try:
+                        self.nome = str(input("Digite seu nome: "))
+                        if len(self.nome) < 5:
+                            print("Erro: O campo deve conter ao menos 5 caracteres!")
+                        else:
+                            campo += 1
+                    except:
+                        print("Campo inválido...")
+
+                case 2:
+                    try:
+                        self.idade = int(input("Digite sua idade em anos: "))
+                        campo += 1
+                    except:
+                        print("Campo inválido...")
+
+                case 3:
+                    try:
+                        self.peso = float(input("Digite seu peso em Kg: ").replace(",", "."))
+                        campo += 1
+                        return False
+                    except:
+                        print("Campo inválido...")
+
+    def mostrar_dados(self):
+        print("Seu nome é ", self.nome)
+        print("Seu peso é ", self.peso, " Kgs")
+        print("Sua idade é ", self.idade, " anos")
+
+    def finaliza_programa(self):
+        encerra = True
+        while encerra:
+            print("\nDeseja finalizar o Programa")
+            finaliza = str(input("Digite S (SIM) ou N (Iniciar novamente): "))
+            if finaliza == "s" or finaliza == "S":
+                print("\n<<<<<<< Obrigado por utilizar nosso software. Até a próxima! >>>>>>>>\n")
+                encerra = False
+                return False
+            elif finaliza == "n" or finaliza == "N":
+                encerra = False
+                return True
+            else:
+                print("\nInforme uma opção correta...")
+
+carrega_classe = programa_recebe_dados()
+carrega_classe.receber_campos()
+carrega_classe.mostrar_dados()
+carrega_classe.finaliza_programa()
