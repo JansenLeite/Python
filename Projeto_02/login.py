@@ -31,6 +31,7 @@ def main():
         usuario = recebe_usuario()
         senha = recebe_senha()
         autentica = valida_usuario(usuario, senha)
+    return True
 
 if __name__ == "__main__":
     main()
