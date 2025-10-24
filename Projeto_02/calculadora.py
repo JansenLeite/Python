@@ -38,6 +38,7 @@ def exibe_resultado(resultado):
 def main():
     sair_programa = True
     while sair_programa:
+        mensagem()
         num1 = recebe_campo1()
         num2 = recebe_campo2()
         opc = recebe_operacao()

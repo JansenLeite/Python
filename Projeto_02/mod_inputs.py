@@ -8,6 +8,26 @@ def inp_float(mensagem):
             print("Campo inválido!")
     return inp
 
+def inp_str(mensagem):
+    valida = True
+    while valida:
+        try:
+            inp = str(input(mensagem))
+            valida = False
+        except:
+            print("Campo inválido!")
+    return inp
+
+def inp_int(mensagem):
+    valida = True
+    while valida:
+        try:
+            inp = int(input(mensagem))
+            valida = False
+        except:
+            print("Campo inválido!")
+    return inp
+
 def inp_str_oper(mensagem):
     valida = True
     while valida:
