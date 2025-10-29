@@ -1,8 +1,11 @@
 import mod_inputs
 import calculadora
+import cota_frete
+import config
+import letreiro
 
 def menu():
-    print("\nEscolha um programa:\n")
+    print(letreiro.banner_pagga("MENU PRINCIPAL"))
     print("Sair => 0 | Calculadora => 1 | Cota Frete => 2")
 
 def recebe_menu():
@@ -17,7 +20,7 @@ def valida_menu(num):
         case 1:
             calculadora.main()
         case 2:
-            print("Chamar o Cota-Frete")
+            cota_frete.main()
         case _:
             print("Menu inválido...")
     return programa
@@ -25,6 +28,7 @@ def valida_menu(num):
 def main():
     executa = True
     while executa:
+        config.limpa_tela()
         menu()
         num = recebe_menu()
         executa = valida_menu(num)

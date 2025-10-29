@@ -1,7 +1,9 @@
 import login
 import menu_principal
+import letreiro
 
-print("\nSeja bem vindo ao sistema COTA FRETE\n")
+print("\nSeja bem vindo ao sistema\n")
+print(letreiro.banner_pagga("COTA-FRETE"))
 acesso = login.main()
 if acesso:
     menu_principal.main()
