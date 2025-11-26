@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+}
+
+.off{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    width: 100%;
+    height: 50px;
+    background: #efefef;
+    text-align: center;
+}
+
+.off_box{
+    position: relative;
+    margin: 0 auto;
+    width: 80%;
+    height: 50px;
+    background: #efefef;
+}
+
+.menu1{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    width: 100%;
+    height: 50px;
+    background: #000;
+    text-align: center;
+}
+
+.menu1_box{
+    position: relative;
+    margin: 0 auto;
+    width: 80%;
+    height: 50px;
+}
+
+.img_logo{
+    height: 30px;
+    background: #fff;
+    padding: 10px 20px;
+    float: left;
+    margin-right: 100px;
+}
+
+.mn_1{
+    float: left;
+    font-family: Arial;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    padding: 16px 20px;
+}
+
+.mn_1:hover{
+    background: #ed218c;
+}
+
+.mn_2{
+    float: left;
+    font-family: Arial;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    padding: 6px 20px;
+    background: #ed218c;
+    margin-top: 7px;
+    border-radius: 15px;
+}
+
+.mn_2:hover{
+    color: #000;
+}
+
+.logo{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    width: 100%;
+    height: 120px;
+    background: #ccc;
+}
+
+.menu2{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    width: 100%;
+    height: 50px;
+    background: #fff;
+}
+
+.off2{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    width: 100%;
+    height: 50px;
+    background: #444;
+}
+
+.banner{
+    position: relative;
+    margin: 0 auto;
+    float: left;
+    width: 100%;
+    height: 500px;
+    background: #000;
+}
