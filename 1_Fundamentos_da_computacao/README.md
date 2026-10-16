@@ -1,4 +1,4 @@
-# Programação em Python - 1. Fundamentos da computação
+# Programação em Python - 1. Fundamentos da Computação
 
 <pre>
 <b>1. Fundamentos da computação</b>
