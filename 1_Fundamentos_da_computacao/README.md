@@ -1,5 +1,4 @@
-# Programação em Python
-<label>Material de Estudo para o Curso de Programação em Python - SENAI Jaguariúna.</label><br />
+# Programação em Python - 1. Fundamentos da computação
 
 <pre>
 <b>1. Fundamentos da computação</b>
