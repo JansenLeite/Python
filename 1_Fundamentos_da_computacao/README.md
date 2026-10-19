@@ -13,3 +13,16 @@
 		1.3.3.Interpretada
 		1.3.4.Compilada
 </pre>
+
+# Material de Apoio
+
+<h3>Introdução ao Fundamentos da Computação</h3>
+<a href="https://github.com/JansenLeite/Python/blob/main/1_Fundamentos_da_computacao/1_Introducao_Fundamentos_Computacao.pdf">Clique aqui para abrir</a>
+
+## Atividade 01 - Algoritmos
+
+<b>a) Crie um algoritmo (passo a passo) que faça a troca de uma lâmpada com eficiência.</b><br /><br />
+
+<b>b) Crie um algoritmo (passo a passo) que satisfaça a preparação da bebida tradicional do Brasil, o Café.</b><br /><br />
+
+<b>c) Crie um algoritmo (passo a passo) que ensine uma pessoa a estudar programação em Python.</b>
