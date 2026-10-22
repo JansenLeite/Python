@@ -34,13 +34,6 @@
 	</code>
 </pre>
 
-<label>Verificando a Versão instalada do Python</label><br /><br />
-<pre>
-	<code>
-		python --version
-	</code>
-</pre>
-
 <label>Desinstalação do Python via CMD</label><br /><br />
 <pre>
 	<code>
