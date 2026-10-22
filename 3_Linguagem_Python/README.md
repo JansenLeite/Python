@@ -22,7 +22,5 @@
 
 <label>Instalação do Python via CMD</label><br /><br />
 <pre>
-	<code class="bash">
-		winget install Python.Python.3.14
-	</code>
+	winget install Python.Python.3.14
 </pre>
