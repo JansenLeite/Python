@@ -21,6 +21,6 @@
 <b>Execute o terminal CMD do Windows como Administrador</b><br /><br />
 
 <label>Instalação do Python via CMD</label><br /><br />
-<pre>
+<code>
 	winget install Python.Python.3.14
-</pre>
+</code>
