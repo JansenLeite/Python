@@ -23,20 +23,29 @@
 <label>Instalação do Python via CMD</label><br /><br />
 <pre>
 	<code>
-		winget install Python.Python.3.14
+		winget install Python.Python.3.10
+	</code>
+</pre>
+
+<label>Verificando a Versão instalada do Python</label><br /><br />
+<pre>
+	<code>
+		python --version
+	</code>
+</pre>
+
+<label>Verificando a Versão instalada do Python</label><br /><br />
+<pre>
+	<code>
+		python --version
 	</code>
 </pre>
 
 <label>Desinstalação do Python via CMD</label><br /><br />
 <pre>
 	<code>
-		winget uninstall Python.Python.3.12
+		winget uninstall --id Python.Python.3.10
 	</code>
 </pre>
 
-<label>Verificando a Versão intalada do Python</label><br /><br />
-<pre>
-	<code>
-		python --version
-	</code>
-</pre>
+
