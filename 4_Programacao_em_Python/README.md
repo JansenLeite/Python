@@ -40,3 +40,6 @@
 
 <h3>Declaração de Variáveis e Visualização:</h3>
 <a href="https://github.com/JansenLeite/Python/blob/main/4_Programacao_em_Python/1_1_1_Declaracao_Variaveis_Visualizacao.pdf">Clique aqui para acessar o material</a>
+
+<h3>Operadores Aritiméticos</h3>
+<a href="https://github.com/JansenLeite/Python/blob/main/4_Programacao_em_Python/1_1_2_Operadores_Aritmeticos.pdf">Clique aqui para acessar o material</a>
