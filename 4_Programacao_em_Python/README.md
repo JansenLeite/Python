@@ -55,5 +55,9 @@ nomedavariavel = True
 <b>#Visualização das informações via print:</b>
 nomedavariavel = "Curso Python"
 print(nomedavariavel)
+<br /><br />	
+<b>#Visualização das informações via print concatenado variável e texto personalizado:</b>
+nomedavariavel = "Curso Python"
+print("Eu estou apredendo muito no ", nomedavariavel)
 </pre>
 
