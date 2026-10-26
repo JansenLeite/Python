@@ -38,10 +38,10 @@
 
 # Material de Apoio:
 
-<h3>Declaração de Variáveis:</h3>
+<h3>Declaração de Variáveis e Visualização:</h3>
 <pre>
 #Declaração de variável do tipo texto/string
-nomedavariavel = "informação"
+nomedavariavel = "informação"<br /><br />
 	
 #Declaração de variável do tipo número inteiro
 nomedavariavel = 20
