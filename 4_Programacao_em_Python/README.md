@@ -40,16 +40,16 @@
 
 <h3>Declaração de Variáveis:</h3>
 <pre>
-	#Declaração de variável do tipo texto/string
-	nomedavariavel = "informação"
+#Declaração de variável do tipo texto/string
+nomedavariavel = "informação"
 	
-	#Declaração de variável do tipo número inteiro
-	nomedavariavel = 20
+#Declaração de variável do tipo número inteiro
+nomedavariavel = 20
 	
-	#Declaração de variável do tipo número flutuante / irracional
-	nomedavariavel = 20.7
+#Declaração de variável do tipo número flutuante / irracional
+nomedavariavel = 20.7
 	
-	#Declaração de variável do tipo Boleana (True ou False)
-	nomedavariavel = True
+#Declaração de variável do tipo Boleana (True ou False)
+nomedavariavel = True
 </pre>
 
