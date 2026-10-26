@@ -52,5 +52,5 @@
 <h3>1. Atividade Pratica Operadores Aritméticos</h3>
 <a href="https://github.com/JansenLeite/Python/blob/main/4_Programacao_em_Python/1_2_0_Atividade_Pratica_Python_Aritimetica.pdf">Clique aqui para acessar a atividade</a>
 
-<h3>2. Atividade Pratica Operadores Aritméticos</h3>
+<h3>2. Atividade Pratica Inputs I/O</h3>
 <a href="https://github.com/JansenLeite/Python/blob/main/4_Programacao_em_Python/1_3_1_Atividade_Pratica_Python_Input.pdf">Clique aqui para acessar a atividade</a>
