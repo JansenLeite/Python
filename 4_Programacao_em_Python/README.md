@@ -40,16 +40,20 @@
 
 <h3>Declaração de Variáveis e Visualização:</h3>
 <pre>
-#Declaração de variável do tipo texto/string
-nomedavariavel = "informação"<br /><br />
-	
-#Declaração de variável do tipo número inteiro
+<b>#Declaração de variável do tipo texto/string</b>
+nomedavariavel = "informação"
+<br /><br />
+<b>#Declaração de variável do tipo número inteiro</b>
 nomedavariavel = 20
-	
-#Declaração de variável do tipo número flutuante / irracional
+<br /><br />	
+<b>#Declaração de variável do tipo número flutuante / irracional</b>
 nomedavariavel = 20.7
-	
-#Declaração de variável do tipo Boleana (True ou False)
+<br /><br />	
+<b>#Declaração de variável do tipo Boleana (True ou False)</b>
 nomedavariavel = True
+<br /><br />	
+<b>#Visualização das informações via print:</b>
+nomedavariavel = "Curso Python"
+print(nomedavariavel)
 </pre>
 
