@@ -39,25 +39,4 @@
 # Material de Apoio:
 
 <h3>Declaração de Variáveis e Visualização:</h3>
-<pre>
-<b>#Declaração de variável do tipo texto/string</b>
-nomedavariavel = "informação"
-<br /><br />
-<b>#Declaração de variável do tipo número inteiro</b>
-nomedavariavel = 20
-<br /><br />	
-<b>#Declaração de variável do tipo número flutuante / irracional</b>
-nomedavariavel = 20.7
-<br /><br />	
-<b>#Declaração de variável do tipo Boleana (True ou False)</b>
-nomedavariavel = True
-<br /><br />	
-<b>#Visualização das informações via print:</b>
-nomedavariavel = "Curso Python"
-print(nomedavariavel)
-<br /><br />	
-<b>#Visualização das informações via print concatenado variável e texto personalizado:</b>
-nomedavariavel = "Curso Python"
-print("Eu estou apredendo muito no ", nomedavariavel)
-</pre>
-
+<a href="https://github.com/JansenLeite/Python/blob/main/4_Programacao_em_Python/1_1_1_Declaracao_Variaveis_Visualizacao.pdf">Clique aqui para acessar o material</a>
