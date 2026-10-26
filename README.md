@@ -98,3 +98,6 @@
 
 <h3>Download do Visual Studio Code</h3>
 <a href="https://code.visualstudio.com/download">Clique aqui para baixar o programa</a>
+
+<h3>Formulário de Envio de Atividades (GitHUB)</h3>
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUNUJBREhYRDZNNzlIRDdUUVNEUjRTVlhNMC4u">Clique aqui para enviar a atividade</a>
