@@ -101,3 +101,6 @@
 
 <h3>Formulário de Envio de Atividades (GitHUB)</h3>
 <a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUNUJBREhYRDZNNzlIRDdUUVNEUjRTVlhNMC4u">Clique aqui para enviar a atividade</a>
+
+<h3>Auto-Avaliação do Aluno</h3>
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUQ1ZPS1dEN0E0Nk5KRzA1UFM5SFJaWjgyNC4u">Clique aqui para preencher o formulário</a>
