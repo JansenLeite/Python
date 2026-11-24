@@ -8,12 +8,14 @@ def recebe_opcao():
         match opcao:
             case 0:
                 print("Sair do Programa!")
+                break
             case 1:
                 #print("Aqui chamo a calculadora!")
                 calculadora.main()
                 break
             case 2:
                 print("Aqui chamo Calcula Frete!")
+                
             case _:
                 print("Opção inválida!\n")
 
@@ -21,3 +23,4 @@ def main():
     while True:
         mod_msg.msg_menu_principal()
         recebe_opcao()
+        break
