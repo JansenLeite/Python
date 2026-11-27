@@ -31,3 +31,9 @@ def msg_ct_aeroporto():
     print("<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< COTAÇÃO DE FRETE >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>")
     print("#########################################################################################################\n")
     print("SAIR - 0 | CONGONHAS/SP - 1 | GUARULHOS/SP - 2 | CAMPO DE MARTE/SP - 3 | PINTO MARTINS/CE - 4 | EDUARDO GOMES/AM - 5 \n")
+
+def msg_ct_embalagem():
+    print("#########################################")
+    print("<<<< ESCOLHA UM TIPO DE EMBALAGEM >>>>>>>")
+    print("#######################################\n")
+    print("SAIR - 0 | PAPELÃO - 1 | CONTAINER - 2 \n")

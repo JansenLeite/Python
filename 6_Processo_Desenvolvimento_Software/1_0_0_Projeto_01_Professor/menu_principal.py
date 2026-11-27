@@ -1,6 +1,7 @@
 import mod_msg
 import mod_inputs
 import calculadora
+import calcula_frete
 
 def recebe_opcao():
     while True:
@@ -15,7 +16,7 @@ def recebe_opcao():
                 break
             case 2:
                 print("Aqui chamo Calcula Frete!")
-                
+                calcula_frete.main()
             case _:
                 print("Opção inválida!\n")
 
