@@ -46,17 +46,24 @@ def calcula_frete(distancia, tipo_embalagem):
             x = mod_inputs.recebe_float("Digite a largura em MTS: ")
             z = mod_inputs.recebe_float("Digite a profundidade em MTS: ")
             w = mod_inputs.recebe_float("Digite o peso em KG: ")
-            f = 0.26
+            f = 0.015
         case 2: 
             # Calculo container
-            y = mod_inputs.recebe_float("Digite a altura em CM: ")
-            x = mod_inputs.recebe_float("Digite a largura em CM: ")
-            z = mod_inputs.recebe_float("Digite a profundidade em CM: ")
+            y = mod_inputs.recebe_float("Digite a altura em MTS: ")
+            x = mod_inputs.recebe_float("Digite a largura em MTS: ")
+            z = mod_inputs.recebe_float("Digite a profundidade em MTS: ")
             w = mod_inputs.recebe_float("Digite o peso em KG: ")
-            f = 0.37
+            f = 0.026
+    
+    cubagem = y * x * z * 166.67
 
-    formula =  ((y * x * z * w) * (1 + f)) * (1+(distancia * 9.8))
+    if cubagem >= w:
+        peso_real = cubagem
+    else:
+        peso_real = w
 
+    formula = peso_real * distancia * f
+    
     return round(formula, 2)    
 
 
